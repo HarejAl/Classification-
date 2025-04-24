@@ -1,7 +1,5 @@
 """
-Created on Sat Mar 22 18:09:22 2025
-
-@author: alexa
+An example of using a CNN for recognising digits in the MNIST dataset
 """
 import numpy as np
 import torch
